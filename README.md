@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin-Hr
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLP
+- 👀 I’m a practicing Data Scientist
+- 🌱 I like NLP
 - 💞️ I’m looking to collaborate on new cool projects
 - 📫
 
