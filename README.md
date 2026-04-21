@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Martin-Hr
 - 👀 I’m a practicing Data Scientist
 - 🌱 I like NLP
-- 💞️ I’m looking to collaborate on new cool projects
+- 💞️ I’m looking to collaborate on new projects
 - 📫
 
 <!---
